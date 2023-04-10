@@ -480,6 +480,19 @@ PRODUCT_PACKAGES += \
     UdfpsAnimations
 endif
 
+# QS Panel
+PRODUCT_PACKAGES += \
+    A11QSUI \
+    QSOutline \
+    QSTwoToneAccent \
+    QSTwoToneAccentTrans \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
+
 # Brightness slider styles
 PRODUCT_PACKAGES += \
     BrightnessSliderFilledOverlay \
