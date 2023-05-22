@@ -468,6 +468,11 @@ PRODUCT_PACKAGES += \
     VolumeOutline \
     VolumeShadedLayer \
     VolumeAOSPRevamped
+    
+# QS panel
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay \
+    RoundQSOverlay
 
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
