@@ -67,6 +67,7 @@ PRODUCT_PACKAGES += \
     FontOppoSansOverlay \
     FontOswaldOverlay \
     FontProductSansVHOverlay \
+    FontPlayOverlay \
     FontQuandoOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
@@ -209,6 +210,7 @@ PRODUCT_PACKAGES += \
     ClockFontPinewoodOverlay \
     ClockFontPlaidEventOverlay \
     ClockFontPlantsLettersOverlay \
+    ClockFontPlayOverlay \
     ClockFontQuickSouthOverlay \
     ClockFontREMPONKOverlay \
     ClockFontRomantiquesOverlay \
