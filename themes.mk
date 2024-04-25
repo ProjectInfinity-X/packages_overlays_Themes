@@ -458,3 +458,13 @@ PRODUCT_PACKAGES += \
     GradiconDataOverlay \
     LornDataOverlay \
     PlumpyDataOverlay
+    
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer \
+    VolumeAOSPRevamped
