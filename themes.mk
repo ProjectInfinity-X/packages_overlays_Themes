@@ -472,7 +472,16 @@ PRODUCT_PACKAGES += \
 # QS panel
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
-    RoundQSOverlay
+    RoundQSOverlay \
+    QSOutline \
+    QSTwoToneAccent \
+    QSTwoToneAccentTrans \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
 
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
