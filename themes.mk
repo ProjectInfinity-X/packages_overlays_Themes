@@ -483,6 +483,25 @@ PRODUCT_PACKAGES += \
     QSSurround \
     QSThin
 
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderAcunOverlay \
+    BrightnessSliderBangOverlay \
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderGradiantOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderLightyOverlay \
+    BrightnessSliderLineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderNeumorphOverlay \
+    BrightnessSliderOldSchoolThumbOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderThinOverlay \
+    BrightnessSliderThumbSliderOverlay \
+    BrightnessSliderTranslucentOverlay
+
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
     UdfpsIcons
