@@ -490,6 +490,13 @@ PRODUCT_PACKAGES += \
     VolumeShadedLayer \
     VolumeAOSPRevamped
 
+# UDFPS    
+ifeq ($(TARGET_HAS_UDFPS),true)
+PRODUCT_PACKAGES += \
+    UdfpsIcons \
+    UdfpsAnimations
+endif
+
 # QS Panel
 PRODUCT_PACKAGES += \
     QSOutline \
