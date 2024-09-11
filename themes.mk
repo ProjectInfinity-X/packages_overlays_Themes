@@ -89,6 +89,7 @@ PRODUCT_PACKAGES += \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontUbuntuOverlay \
+    FontVolteOverlay \
     FontCircularStdOverlay \
     FontBlazmaHyperwaveOverlay \
     FontCardelinaOverlay \
