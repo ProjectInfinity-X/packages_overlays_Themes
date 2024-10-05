@@ -300,25 +300,29 @@
     <family customizationType="new-named-family" name="accuratist">
         <font weight="400" style="normal">Accuratist.ttf</font>
     </family>
-    <alias name="accuratist-regular" to="accuratist" weight="400" />
+    <alias name="oduda-semi-bold" to="accuratist" weight="600" />
+    <alias name="oduda-bold" to="accuratist" weight="700" />
 
     <!-- Aclonica -->
     <family customizationType="new-named-family" name="aclonica">
         <font weight="300" style="normal">Aclonica.ttf</font>
     </family>
-    <alias name="aclonica-light" to="aclonica" weight="300" />
+    <alias name="oduda-semi-bold" to="aclonica" weight="600" />
+    <alias name="oduda-bold" to="aclonica" weight="700" />
 
     <!-- Amarante -->
     <family customizationType="new-named-family" name="amarante">
         <font weight="300" style="normal">Amarante.ttf</font>
     </family>
-    <alias name="amarante-light" to="amarante" weight="300" />
+    <alias name="oduda-semi-bold" to="amarante" weight="600" />
+    <alias name="oduda-bold" to="amarante" weight="700" />
 
     <!-- Bariol -->
     <family customizationType="new-named-family" name="bariol">
         <font weight="300" style="normal">Bariol-Regular.ttf</font>
     </family>
-    <alias name="bariol-light" to="bariol" weight="300" />
+    <alias name="oduda-semi-bold" to="bariol" weight="600" />
+    <alias name="oduda-bold" to="bariol" weight="700" />
 
     <!-- Cagliostro -->
     <family customizationType="new-named-family" name="cagliostro">
@@ -330,13 +334,15 @@
     <family customizationType="new-named-family" name="cocon">
         <font weight="400" style="normal">Cocon.ttf</font>
     </family>
-    <alias name="cocon-regular" to="cocon" weight="400" />>
+    <alias name="oduda-semi-bold" to="cocon" weight="600" />
+    <alias name="oduda-bold" to="cocon" weight="700" />
 
     <!-- Comfortaa -->
     <family customizationType="new-named-family" name="comfortaa">
         <font weight="400" style="normal">Comfortaa.ttf</font>
     </family>
-    <alias name="comfortaa-regular" to="comfortaa" weight="400" />
+    <alias name="oduda-semi-bold" to="comfortaa" weight="600" />
+    <alias name="oduda-bold" to="comfortaa" weight="700" />
 
     <!-- Comic Sans -->
     <family customizationType="new-named-family" name="comicsans">
@@ -348,7 +354,8 @@
     <family customizationType="new-named-family" name="cooljazz">
         <font weight="300" style="normal">Cooljazz.ttf</font>
     </family>
-    <alias name="cooljazz-light" to="cooljazz" weight="300" />
+    <alias name="oduda-semi-bold" to="cooljazz" weight="600" />
+    <alias name="oduda-bold" to="cooljazz" weight="700" />
     
     <family customizationType="new-named-family" name="odibee-sans">
         <font weight="300" style="normal">OdibeeSans-Regular.ttf</font>
@@ -358,19 +365,20 @@
     <family customizationType="new-named-family" name="coolstory">
         <font weight="300" style="normal">Coolstory-Regular.ttf</font>
     </family>
-    <alias name="coolstory-light" to="coolstory" weight="300" />
+    <alias name="oduda-semi-bold" to="coolstory" weight="600" />
+    <alias name="oduda-bold" to="coolstory" weight="700" />
 
     <!-- Exotwo -->
     <family customizationType="new-named-family" name="exotwo">
         <font weight="400" style="normal">Exotwo.ttf</font>
     </family>
-    <alias name="exotwo-regular" to="exotwo" weight="400" />
+    <alias name="exotwo-regular" to="exotwo" weight="600" />
 
     <!-- Fifa 2018 -->
     <family customizationType="new-named-family" name="fifa2018">
         <font weight="400" style="normal">Fifa_2018.ttf</font>
     </family>
-    <alias name="fifa2018-regular" to="fifa2018" weight="400" />
+    <alias name="fifa2018-regular" to="fifa2018" weight="600" />
 
     <!-- Product Sans VH -->
     <family customizationType="new-named-family" name="productsansvh">
@@ -875,10 +883,10 @@
     <alias name="ITC Stone Serif" to="evolvesans" />
 
     <family customizationType="new-named-family" name="fucek">
-        <font weight="400" style="normal">Fucek.ttf</font>
+        <font weight="300" style="normal">Fucek.ttf</font>
     </family>
-    <alias name="fucek-semi-bold" to="fucek" weight="600" />
-    <alias name="fucek-bold" to="fucek" weight="700" />
+    <alias name="oduda-semi-bold" to="fucek" weight="600" />
+    <alias name="oduda-bold" to="fucek" weight="700" />
     <alias name="times" to="fucek" />
     <alias name="times new roman" to="fucek" />
     <alias name="palatino" to="fucek" />
@@ -1020,75 +1028,147 @@
     <family customizationType="new-named-family" name="kroppen-outline">
       <font>KroppenOutline.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="kroppen-outline" weight="600" />
+    <alias name="oduda-bold" to="kroppen-outline" weight="700" />
+    
     <family customizationType="new-named-family" name="kroppen-round">
       <font>KroppenRound.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="kroppen-round" weight="600" />
+    <alias name="oduda-bold" to="kroppen-round" weight="700" />
+    
     <family customizationType="new-named-family" name="newyork-heavy-clock">
       <font>NewYork-Heavy.otf</font>
     </family>
+    <alias name="oduda-semi-bold" to="newyork-heavy-clock" weight="600" />
+    <alias name="oduda-bold" to="newyork-heavy-clock" weight="700" />
+    
     <family customizationType="new-named-family" name="newyork-semibold-clock">
       <font>NewYork-Semibold.otf</font>
     </family>
+    <alias name="oduda-semi-bold" to="newyork-semibold-clock" weight="600" />
+    <alias name="oduda-bold" to="newyork-semibold-clock" weight="700" />
+    
     <family customizationType="new-named-family" name="sanfrancisco-sb-clock">
       <font>SFPro-Semibold.otf</font>
     </family>
+    <alias name="oduda-semi-bold" to="sanfrancisco-sb-clock" weight="600" />
+    <alias name="oduda-bold" to="sanfrancisco-sb-clock" weight="700" />
+    
     <family customizationType="new-named-family" name="sanfrancisco-sb-rails-clock">
       <font>SFPro-SemiboldRails.otf</font>
-     </family>
+    </family>
+    <alias name="oduda-semi-bold" to="sanfrancisco-sb-rails-clock" weight="600" />
+    <alias name="oduda-bold" to="sanfrancisco-sb-rails-clock" weight="700" />
+     
     <family customizationType="new-named-family" name="sanfrancisco-sb-round-clock">
       <font>SFPro-SemiboldRounded.otf</font>
     </family>
+    <alias name="oduda-semi-bold" to="sanfrancisco-sb-round-clock" weight="600" />
+    <alias name="oduda-bold" to="sanfrancisco-sb-round-clock" weight="700" />
+    
     <family customizationType="new-named-family" name="sanfrancisco-sb-soft-clock">
       <font>SFPro-SemiboldSoft.otf</font>
     </family>
+    <alias name="oduda-semi-bold" to="sanfrancisco-sb-soft-clock" weight="600" />
+    <alias name="oduda-bold" to="sanfrancisco-sb-soft-clock" weight="700" />
+    
     <family customizationType="new-named-family" name="sanfrancisco-sb-stencil-clock">
-    <font>SFPro-SemiboldStencil.otf</font>
+      <font>SFPro-SemiboldStencil.otf</font>
     </family>
+    <alias name="oduda-semi-bold" to="sanfrancisco-sb-stencil-clock" weight="600" />
+    <alias name="oduda-bold" to="sanfrancisco-sb-stencil-clock" weight="700" />
+    
     <family customizationType="new-named-family" name="adventpro">
         <font weight="300" style="normal">AdventPro-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="adventpro" weight="600" />
+    <alias name="oduda-bold" to="adventpro" weight="700" />
+    
     <family customizationType="new-named-family" name="alien-league">
         <font weight="300" style="normal">AlienLeague-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="alien-league" weight="600" />
+    <alias name="oduda-bold" to="alien-league" weight="700" />
+    
     <family customizationType="new-named-family" name="arcadeinterlaced">
         <font weight="300" style="normal">ArcadeInterlaced.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="arcadeinterlaced" weight="600" />
+    <alias name="oduda-bold" to="arcadeinterlaced" weight="700" />
+    
     <family customizationType="new-named-family" name="bignoodle-italic">
         <font weight="300" style="normal">BigNoodleTilting-Italic.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="bignoodle-italic" weight="600" />
+    <alias name="oduda-bold" to="bignoodle-italic" weight="700" />
+    
     <family customizationType="new-named-family" name="biko">
         <font weight="300" style="normal">Biko-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="biko" weight="600" />
+    <alias name="oduda-bold" to="biko" weight="700" />
+    
     <family customizationType="new-named-family" name="cherryswash">
         <font weight="300" style="normal">CherrySwash-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="cherryswash" weight="600" />
+    <alias name="oduda-bold" to="cherryswash" weight="700" />
+    
     <family customizationType="new-named-family" name="ginora-sans">
         <font weight="300" style="normal">GinoraSans-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="ginora-sans" weight="600" />
+    <alias name="oduda-bold" to="ginora-sans" weight="700" />
+    
     <family customizationType="new-named-family" name="karmaticarcade">
         <font weight="300" style="normal">KarmaticArcade.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="karmaticarcade" weight="600" />
+    <alias name="oduda-bold" to="karmaticarcade" weight="700" />
+    
     <family customizationType="new-named-family" name="liquidcrystal">
         <font weight="300" style="normal">LiquidCrystal-Bold.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="liquidcrystal" weight="600" />
+    <alias name="oduda-bold" to="liquidcrystal" weight="700" />
+    
     <family customizationType="new-named-family" name="riviera">
         <font weight="300" style="normal">Riviera-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="riviera" weight="600" />
+    <alias name="oduda-bold" to="riviera" weight="700" />
+    
     <family customizationType="new-named-family" name="roadrage-sys">
         <font weight="300" style="normal">RoadRage-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="roadrage-sys" weight="600" />
+    <alias name="oduda-bold" to="roadrage-sys" weight="700" />
+    
     <family customizationType="new-named-family" name="snowstorm-sys">
         <font weight="300" style="normal">Snowstorm-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="snowstorm-sys" weight="600" />
+    <alias name="oduda-bold" to="snowstorm-sys" weight="700" />
+    
     <family customizationType="new-named-family" name="unionfont">
         <font weight="300" style="normal">Union-Regular.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="unionfont" weight="600" />
+    <alias name="oduda-bold" to="unionfont" weight="700" />
+    
     <family customizationType="new-named-family" name="v5prophit">
         <font weight="300" style="normal">V5PRF.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="v5prophit" weight="600" />
+    <alias name="oduda-bold" to="v5prophit" weight="700" />
+    
     <family customizationType="new-named-family" name="vibur">
         <font weight="300" style="normal">Vibur.ttf</font>
     </family>
+    <alias name="oduda-semi-bold" to="vibur" weight="600" />
+    <alias name="oduda-bold" to="vibur" weight="700" />
+    
     <!-- Fontage v4-->
     <family customizationType="new-named-family" name="3d-isometric-black">
         <font weight="700" style="normal">3DIsometric-Black.ttf</font>

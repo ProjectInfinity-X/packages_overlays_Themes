@@ -206,6 +206,7 @@ PRODUCT_PACKAGES += \
     ClockFontLinotteOverlay \
     ClockFontNokiaPureOverlay \
     ClockFontNunitoOverlay \
+    ClockFontOduda \
     ClockFontOneplusSansOverlay \
     ClockFontOneplusSlateOverlay \
     ClockFontOswaldOverlay \
