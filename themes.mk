@@ -481,3 +481,23 @@ PRODUCT_PACKAGES += \
     UdfpsIcons \
     UdfpsAnimations
 endif
+
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderThinOverlay \
+    BrightnessSliderCyberpunkOverlay \
+    BrightnessSliderGradiantOverlay \
+    BrightnessSliderNeumorphOverlay \
+    BrightnessSliderOutlineOverlay \
+    BrightnessSliderShadedOverlay \
+    BrightnessSliderThinOutlineOverlay \
+    BrightnessSliderTranslucentOverlay \
+    BrightnessSliderLeafyOutlineOverlay \
+    BrightnessSliderMinimalThumbOverlay \
+    BrightnessSliderOldSchoolThumbOverlay \
+    BrightnessSliderRoundedClipOverlay \
+    BrightnessSliderThumbSliderOverlay \
+    BrightnessSliderLineOverlay \
+    BrightnessSliderLightyOverlay  
+
