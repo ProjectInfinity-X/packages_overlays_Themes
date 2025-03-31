@@ -45,6 +45,7 @@ PRODUCT_PACKAGES += \
     FontFluidSansOverlay \
     FontFucekOverlay \
     FontGoogleSansOverlay \
+    FontGoogleSansFlexOverlay \
     FontGrandHotelOverlay \
     FontGoogleSansMediumOverlay \
     FontHarmonySansOverlay \
@@ -110,6 +111,7 @@ PRODUCT_COPY_FILES += \
 # Lockscreen Clock Fonts
 PRODUCT_PACKAGES += \
     ClockFontGoogleSansOverlay \
+    ClockFontGoogleSansFlexOverlay \
     ClockFontNothingDotOverlay \
     ClockFontAdventProOverlay \
     ClockFontBigNoodleTiltingOverlay \
