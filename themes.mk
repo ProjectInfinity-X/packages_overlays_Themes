@@ -255,7 +255,12 @@ PRODUCT_PACKAGES += \
     ClockFontSFPro-SemiboldSoftOverlay \
     ClockFontSFPro-SemiboldStencilOverlay \
     ClockFontKroppenOutlineOverlay \
-    ClockFontKroppenRoundOverlay
+    ClockFontKroppenRoundOverlay \
+    ClockFontDigitOverlay \
+    ClockFontKarnivoreOverlay \
+    ClockFontPoppinsOverlay \
+    ClockFontRidgeOverlay \
+    ClockFontRollmopsOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \

@@ -1509,6 +1509,36 @@
     <alias name="oduda-semi-bold" to="vibur" weight="600" />
     <alias name="oduda-bold" to="vibur" weight="700" />
     
+    <family customizationType="new-named-family" name="Rollmops">
+        <font weight="600" style="normal">Rollmops.ttf</font>
+    </family>
+    <alias name="oduda-semi-bold" to="Rollmops" weight="600" />
+    <alias name="oduda-bold" to="Rollmops" weight="700" />
+    
+    <family customizationType="new-named-family" name="Poppins">
+        <font weight="500" style="normal">Poppins.ttf</font>
+    </family>
+    <alias name="oduda-semi-bold" to="Poppins" weight="600" />
+    <alias name="oduda-bold" to="Poppins" weight="700" />
+    
+    <family customizationType="new-named-family" name="Digit">
+        <font weight="600" style="normal">Digit.ttf</font>
+    </family>
+    <alias name="oduda-semi-bold" to="Digit" weight="600" />
+    <alias name="oduda-bold" to="Digit" weight="700" />
+    
+    <family customizationType="new-named-family" name="Ridge">
+        <font weight="600" style="normal">Ridge.otf</font>
+    </family>
+    <alias name="oduda-semi-bold" to="Ridge" weight="600" />
+    <alias name="oduda-bold" to="Ridge" weight="700" />
+    
+    <family customizationType="new-named-family" name="Karnivore">
+        <font weight="600" style="normal">Karnivore.ttf</font>
+    </family>
+    <alias name="oduda-semi-bold" to="Karnivore" weight="600" />
+    <alias name="oduda-bold" to="Karnivore" weight="700" />
+    
     <!-- Fontage v4-->
     <family customizationType="new-named-family" name="3d-isometric-black">
         <font weight="700" style="normal">3DIsometric-Black.ttf</font>
