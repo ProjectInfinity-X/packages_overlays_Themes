@@ -358,6 +358,10 @@ PRODUCT_PACKAGES += \
     NavbarTecnoCamonOverlay \
     NavbarDoraOverlay
 
+# Notification Style
+PRODUCT_PACKAGES += \
+    NotifStyleTransparent
+
 # Statusbar Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
