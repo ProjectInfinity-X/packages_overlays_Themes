@@ -19,6 +19,13 @@ PRODUCT_PACKAGES += \
 # Notification Themes
 PRODUCT_PACKAGES += \
     NotifFluid
+
+# Power Menu Themes
+PRODUCT_PACKAGES += \
+    PowerCyberPunk \
+    PowerDuoline \
+    PowerIOS \
+    PowerLayers
     
 # Custom Clock Overlays
 # PRODUCT_PACKAGES += \
