@@ -506,7 +506,9 @@ PRODUCT_PACKAGES += \
 # endif
 
 # QS Panel
-# PRODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \
+      BetterQS \
+      QSDualTone
 #     A11QSUI \
 #     QSOutline \
 #     QSTwoToneAccent \
