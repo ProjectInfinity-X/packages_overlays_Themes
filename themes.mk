@@ -17,10 +17,10 @@ PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
     
 # Custom Clock Overlays
-PRODUCT_PACKAGES += \
-    HideSmartSpace \
-    SmartSpaceOffset \
-    HideClock
+# PRODUCT_PACKAGES += \
+#     HideSmartSpace \
+#     SmartSpaceOffset \
+#     HideClock
 
 # Fonts
 PRODUCT_PACKAGES += \
@@ -358,10 +358,6 @@ PRODUCT_PACKAGES += \
     NavbarTecnoCamonOverlay \
     NavbarDoraOverlay
 
-# Notification Style
-PRODUCT_PACKAGES += \
-    NotifStyleTransparent
-
 # Statusbar Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
@@ -481,51 +477,50 @@ PRODUCT_PACKAGES += \
     PlumpyDataOverlay
     
 # Volume Styles
-PRODUCT_PACKAGES += \
-    VolumeDoubleLayer \
-    VolumeGradient \
-    VolumeNeumorph \
-    VolumeNeumorphOutline \
-    VolumeOutline \
-    VolumeShadedLayer \
-    VolumeAOSPRevamped
+# PRODUCT_PACKAGES += \
+#     VolumeDoubleLayer \
+#     VolumeGradient \
+#     VolumeNeumorph \
+#     VolumeNeumorphOutline \
+#     VolumeOutline \
+#     VolumeShadedLayer \
+#     VolumeAOSPRevamped
 
 # UDFPS    
-ifeq ($(TARGET_HAS_UDFPS),true)
-PRODUCT_PACKAGES += \
-    UdfpsIcons \
-    UdfpsAnimations
-endif
+# ifeq ($(TARGET_HAS_UDFPS),true)
+# PRODUCT_PACKAGES += \
+#     UdfpsIcons \
+#     UdfpsAnimations
+# endif
 
 # QS Panel
-PRODUCT_PACKAGES += \
-    A11QSUI \
-    QSOutline \
-    QSTwoToneAccent \
-    QSTwoToneAccentTrans \
-    QSShaded \
-    QSCyberPunk \
-    QSNeumorph \
-    QSReflected \
-    QSSurround \
-    QSThin
+# PRODUCT_PACKAGES += \
+#     A11QSUI \
+#     QSOutline \
+#     QSTwoToneAccent \
+#     QSTwoToneAccentTrans \
+#     QSShaded \
+#     QSCyberPunk \
+#     QSNeumorph \
+#     QSReflected \
+#     QSSurround \
+#     QSThin
 
 # Brightness slider styles
-PRODUCT_PACKAGES += \
-    BrightnessSliderFilledOverlay \
-    BrightnessSliderThinOverlay \
-    BrightnessSliderCyberpunkOverlay \
-    BrightnessSliderGradiantOverlay \
-    BrightnessSliderNeumorphOverlay \
-    BrightnessSliderOutlineOverlay \
-    BrightnessSliderShadedOverlay \
-    BrightnessSliderThinOutlineOverlay \
-    BrightnessSliderTranslucentOverlay \
-    BrightnessSliderLeafyOutlineOverlay \
-    BrightnessSliderMinimalThumbOverlay \
-    BrightnessSliderOldSchoolThumbOverlay \
-    BrightnessSliderRoundedClipOverlay \
-    BrightnessSliderThumbSliderOverlay \
-    BrightnessSliderLineOverlay \
-    BrightnessSliderLightyOverlay  
-
+# PRODUCT_PACKAGES += \
+#     BrightnessSliderFilledOverlay \
+#     BrightnessSliderThinOverlay \
+#     BrightnessSliderCyberpunkOverlay \
+#     BrightnessSliderGradiantOverlay \
+#     BrightnessSliderNeumorphOverlay \
+#     BrightnessSliderOutlineOverlay \
+#     BrightnessSliderShadedOverlay \
+#     BrightnessSliderThinOutlineOverlay \
+#     BrightnessSliderTranslucentOverlay \
+#     BrightnessSliderLeafyOutlineOverlay \
+#     BrightnessSliderMinimalThumbOverlay \
+#     BrightnessSliderOldSchoolThumbOverlay \
+#     BrightnessSliderRoundedClipOverlay \
+#     BrightnessSliderThumbSliderOverlay \
+#     BrightnessSliderLineOverlay \
+#     BrightnessSliderLightyOverlay  
