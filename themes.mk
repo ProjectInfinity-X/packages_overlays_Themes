@@ -15,6 +15,10 @@
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
+
+# Notification Themes
+PRODUCT_PACKAGES += \
+    NotifFluid
     
 # Custom Clock Overlays
 # PRODUCT_PACKAGES += \
