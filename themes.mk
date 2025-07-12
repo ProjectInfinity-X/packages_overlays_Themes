@@ -310,11 +310,6 @@ PRODUCT_PACKAGES += \
     IconPackRoundedSettingsOverlay \
     IconPackRoundedSystemUIOverlay \
     IconPackRoundedThemePickerOverlay \
-    IconPackOOSAndroidOverlay \
-    IconPackOOSLauncherOverlay \
-    IconPackOOSSettingsOverlay \
-    IconPackOOSSystemUIOverlay \
-    IconPackOOSThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
     IconPackOutlineLauncherOverlay \
     IconPackOutlineSettingsOverlay \
@@ -475,18 +470,18 @@ PRODUCT_PACKAGES += \
     NothingDotWiFiOverlay
     
 # Data Icons
-PRODUCT_PACKAGES += \
-    IconDataDefault \
-    IconDataFive \
-    IconDataFour \
-    IconDataOne \
-    IconDataThree \
-    IconDataTwo \
-    AuroraDataOverlay \
-    FaintUIDataOverlay \
-    GradiconDataOverlay \
-    LornDataOverlay \
-    PlumpyDataOverlay
+# PRODUCT_PACKAGES += \
+#     IconDataDefault \
+#     IconDataFive \
+#     IconDataFour \
+#     IconDataOne \
+#     IconDataThree \
+#     IconDataTwo \
+#     AuroraDataOverlay \
+#     FaintUIDataOverlay \
+#     GradiconDataOverlay \
+#     LornDataOverlay \
+#     PlumpyDataOverlay
     
 # Volume Styles
 # PRODUCT_PACKAGES += \
