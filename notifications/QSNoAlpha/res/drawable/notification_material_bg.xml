@@ -20,18 +20,18 @@
         android:color="?android:attr/colorControlHighlight">
     <item>
         <shape>
-            <solid android:color="@*android:drawable/color_background_alpha" />
+            <solid android:color="@*android:drawable/color_background_alpha_stock" />
         </shape>
     </item>
     <item>
         <shape>
-            <solid android:color="@*android:drawable/color_background_alpha" />
+            <solid android:color="@*android:drawable/color_background_alpha_stock" />
         </shape>
     </item>
     <item android:id="@+id/notification_focus_overlay">
         <shape>
             <stroke android:width="@dimen/notification_focus_stroke_width"
-                android:color="@*android:drawable/color_background_alpha"/>
+                android:color="@*android:drawable/color_background_alpha_stock"/>
         </shape>
     </item>
 </layer-list>

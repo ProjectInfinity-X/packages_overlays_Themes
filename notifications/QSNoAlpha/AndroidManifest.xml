@@ -1,6 +1,6 @@
 <!--
 /**
- * Copyright (C) 2023-2024 the risingOS Android Project
+ * Copyright (c) 2022, CorvusOS
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,10 +16,10 @@
  */
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.theme.notification.fluid"
+    package="com.android.system.qs.noalpha"
     android:versionCode="1"
     android:versionName="1.0">
-    <overlay android:targetPackage="com.android.systemui" android:category="android.theme.customization.notification" android:priority="1"/>
+    <overlay android:targetPackage="com.android.systemui" android:category="android.theme.customization.qs_panel" android:priority="1"/>
 
-    <application android:label="Notification Themes - Fluid" android:hasCode="false" android:allowBackup="false"/>
+    <application android:label="No alpha QS-Panel" android:hasCode="false" android:allowBackup="false"/>
 </manifest>
