@@ -204,7 +204,6 @@ PRODUCT_PACKAGES += \
 
 # Navbar Styles
 PRODUCT_PACKAGES += \
-    ImmersiveNavigationOverlay \
     NavbarAndroidOverlay \
     NavbarAsusOverlay \
     NavbarMotoOverlay \
