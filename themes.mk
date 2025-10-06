@@ -15,17 +15,6 @@
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
-
-# Notification Themes
-PRODUCT_PACKAGES += \
-    NotifFluid
-
-# Power Menu Themes
-PRODUCT_PACKAGES += \
-    PowerCyberPunk \
-    PowerDuoline \
-    PowerIOS \
-    PowerLayers
     
 # Custom Clock Overlays
 # PRODUCT_PACKAGES += \
@@ -411,30 +400,6 @@ PRODUCT_PACKAGES += \
     MicroWaveWiFiOverlay \
     SharpWiFiOverlay \
     NothingDotWiFiOverlay
-    
-# Data Icons
-# PRODUCT_PACKAGES += \
-#     IconDataDefault \
-#     IconDataFive \
-#     IconDataFour \
-#     IconDataOne \
-#     IconDataThree \
-#     IconDataTwo \
-#     AuroraDataOverlay \
-#     FaintUIDataOverlay \
-#     GradiconDataOverlay \
-#     LornDataOverlay \
-#     PlumpyDataOverlay
-    
-# Volume Styles
-# PRODUCT_PACKAGES += \
-#     VolumeDoubleLayer \
-#     VolumeGradient \
-#     VolumeNeumorph \
-#     VolumeNeumorphOutline \
-#     VolumeOutline \
-#     VolumeShadedLayer \
-#     VolumeAOSPRevamped
 
 # UDFPS    
 ifeq ($(TARGET_HAS_UDFPS),true)
@@ -443,37 +408,6 @@ PRODUCT_PACKAGES += \
     UdfpsAnimations
 endif
 
-# QS Panel
+# QS Dual Tone
 PRODUCT_PACKAGES += \
-      BetterQS \
-      QSDualTone \
-      QSNoAlpha
-#     A11QSUI \
-#     QSOutline \
-#     QSTwoToneAccent \
-#     QSTwoToneAccentTrans \
-#     QSShaded \
-#     QSCyberPunk \
-#     QSNeumorph \
-#     QSReflected \
-#     QSSurround \
-#     QSThin
-
-# Brightness slider styles
-# PRODUCT_PACKAGES += \
-#     BrightnessSliderFilledOverlay \
-#     BrightnessSliderThinOverlay \
-#     BrightnessSliderCyberpunkOverlay \
-#     BrightnessSliderGradiantOverlay \
-#     BrightnessSliderNeumorphOverlay \
-#     BrightnessSliderOutlineOverlay \
-#     BrightnessSliderShadedOverlay \
-#     BrightnessSliderThinOutlineOverlay \
-#     BrightnessSliderTranslucentOverlay \
-#     BrightnessSliderLeafyOutlineOverlay \
-#     BrightnessSliderMinimalThumbOverlay \
-#     BrightnessSliderOldSchoolThumbOverlay \
-#     BrightnessSliderRoundedClipOverlay \
-#     BrightnessSliderThumbSliderOverlay \
-#     BrightnessSliderLineOverlay \
-#     BrightnessSliderLightyOverlay  
+      QSDualTone
