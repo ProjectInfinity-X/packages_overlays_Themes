@@ -408,6 +408,7 @@ PRODUCT_PACKAGES += \
     UdfpsAnimations
 endif
 
-# QS Dual Tone
+# QS Panel
 PRODUCT_PACKAGES += \
-      QSDualTone
+      QSDualTone \
+      QSMedia
