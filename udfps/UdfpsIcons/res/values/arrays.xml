@@ -19,6 +19,7 @@
    <string-array name="udfps_icons">
         <item>udfps_icon_default</item>
         <item>nos_fp</item>
+        <item>oneplus_fp</item>
         <item>udfps_icon_misc1</item>
         <item>udfps_icon_misc2</item>
         <item>udfps_icon_misc3</item>
