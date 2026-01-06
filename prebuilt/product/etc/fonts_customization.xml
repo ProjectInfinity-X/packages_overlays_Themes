@@ -1913,6 +1913,27 @@
     <family customizationType="new-named-family" name="SpaceGame">
         <font weight="300" style="normal">SpaceGame.ttf</font>
     </family>
+    <family name="SpaceGrotesk" customizationType="new-named-family">
+        <font weight="300" style="normal" postScriptName="SpaceGrotesk-Light">
+            SpaceGrotesk-Light.ttf
+        </font>
+
+        <font weight="400" style="normal" postScriptName="SpaceGrotesk-Regular">
+            SpaceGrotesk-Regular.ttf
+        </font>
+
+        <font weight="500" style="normal" postScriptName="SpaceGrotesk-Medium">
+            SpaceGrotesk-Medium.ttf
+        </font>
+
+        <font weight="600" style="normal" postScriptName="SpaceGrotesk-SemiBold">
+            SpaceGrotesk-SemiBold.ttf
+        </font>
+
+        <font weight="700" style="normal" postScriptName="SpaceGrotesk-Bold">
+            SpaceGrotesk-Bold.ttf
+        </font>
+    </family>
     <family customizationType="new-named-family" name="TH3MACHINE">
         <font weight="300" style="normal">TH3MACHINE.ttf</font>
     </family>

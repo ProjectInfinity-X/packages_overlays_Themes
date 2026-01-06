@@ -86,6 +86,7 @@ PRODUCT_PACKAGES += \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSimpleDaySourceOverlay \
     FontSonySketchOverlay \
+    FontSpaceGroteskOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontUbuntuOverlay \
