@@ -17,10 +17,10 @@ PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay
     
 # Custom Clock Overlays
-# PRODUCT_PACKAGES += \
-#     HideSmartSpace \
-#     SmartSpaceOffset \
-#     HideClock
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset \
+    HideClock
 
 # Fonts
 PRODUCT_PACKAGES += \
