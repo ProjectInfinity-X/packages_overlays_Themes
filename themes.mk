@@ -209,27 +209,6 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/prebuilt/pro
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/product/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
 
-# Icon Shapes
-PRODUCT_PACKAGES += \
-    IconShapeFlowerOverlay \
-    IconShapeHeartOverlay \
-    IconShapeHexagonOverlay \
-    IconShapeCloudyOverlay \
-    IconShapeCylindricalOverlay \
-    IconShapeRiceBallsOverlay \
-    IconShapeStretchedOverlay \
-    IconShapePebbleOverlay \
-    IconShapeRoundedRectOverlay \
-    IconShapeSquircleOverlay \
-    IconShapeTaperedRectOverlay \
-    IconShapeTeardropOverlay \
-    IconShapeVesselOverlay \
-    IconShapeRoundedHexagonOverlay \
-    IconShapeScrollOverlay \
-    IconShapeIosOverlay \
-    IconShapeRohieMeowOverlay \
-    IconShapeLeafyOverlay
-
 # Navbar Styles
 PRODUCT_PACKAGES += \
     NavbarAndroidOverlay \
