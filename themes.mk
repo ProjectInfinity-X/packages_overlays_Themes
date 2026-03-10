@@ -76,6 +76,8 @@ PRODUCT_PACKAGES += \
     FontProductSansVHOverlay \
     FontPlayOverlay \
     FontQuandoOverlay \
+    FontRecursiveCasualOverlay \
+    FontRecursiveLinearOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
