@@ -15,8 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "ClockFontIOSOverlay",
-    sdk_version: "current",
+    name: "ClockFontSFPro-SemiboldStencilOverlay",
+    theme: "ClockFontSFPro-SemiboldStencil",
     product_specific: true,
-    theme: "ClockFontIOS",
 }

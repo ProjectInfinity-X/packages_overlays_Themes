@@ -1591,7 +1591,7 @@
 
     <!-- Lockscreen Clock Fonts -->
     
-    <!-- IOS font family -->
+    <!-- SFPro/NewYork/Kroppen clock font family -->
     <family customizationType="new-named-family" name="kroppen-outline">
       <font>KroppenOutline.ttf</font>
     </family>
