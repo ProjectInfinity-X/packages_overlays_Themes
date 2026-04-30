@@ -235,3 +235,7 @@ endif
 PRODUCT_PACKAGES += \
       QSDualTone \
       QSMedia
+
+# Lockscreen
+PRODUCT_PACKAGES += \
+      MonetBouncer
