@@ -209,7 +209,12 @@ LOCAL_PATH := packages/overlays/Themes
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
 
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/prebuilt/product/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
+    $(LOCAL_PATH)/prebuilt/product/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml \
+    $(LOCAL_PATH)/prebuilt/product/etc/fonts_customization_emoji_ios.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization_emoji_ios.xml \
+    $(LOCAL_PATH)/prebuilt/product/etc/fonts_customization_emoji_samsung.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization_emoji_samsung.xml
+
+PRODUCT_PRODUCT_PROPERTIES += \
+    persist.sys.ax_emoji_style=android
 
 # Navbar Styles
 PRODUCT_PACKAGES += \
