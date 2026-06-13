@@ -26,6 +26,6 @@
     <application android:label="@string/font_linotte_overlay" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="linotte,linotte-semi-bold,linotte-bold,linotte-light,linotte-regular" />
+            android:value="linotte,linotte-semi-bold,linotte-bold,linotte-light,linotte-medium,linotte-regular" />
     </application>
 </manifest>

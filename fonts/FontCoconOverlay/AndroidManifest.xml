@@ -26,6 +26,6 @@
     <application android:label="@string/font_cocon_overlay" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="cocon" />
+            android:value="cocon,cocon-semi-bold,cocon-bold,cocon-light,cocon-medium" />
     </application>
 </manifest>

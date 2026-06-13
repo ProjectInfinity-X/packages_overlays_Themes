@@ -26,6 +26,6 @@
     <application android:label="@string/font_oswald_overlay" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="oswald,oswald-bold,oswald-light,oswald-medium,oswald-regular" />
+            android:value="oswald,oswald-semi-bold,oswald-bold,oswald-light,oswald-medium,oswald-regular" />
     </application>
 </manifest>

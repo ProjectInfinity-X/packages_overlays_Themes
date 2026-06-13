@@ -26,6 +26,6 @@
     <application android:label="@string/font_redressed_overlay" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="redressed" />
+            android:value="redressed,redressed-semi-bold,redressed-bold,redressed-light,redressed-medium" />
     </application>
 </manifest>

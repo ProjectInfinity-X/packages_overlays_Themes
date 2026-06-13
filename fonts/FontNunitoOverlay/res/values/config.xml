@@ -17,17 +17,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Name of a font family to use for body text. -->
-    <string name="config_bodyFontFamily" translatable="false">nunito-regular</string>
+    <string name="config_bodyFontFamily" translatable="false">nunito</string>
     <!-- Name of a font family to use for medium body text. -->
-    <string name="config_bodyFontFamilyMedium" translatable="false">nunito-regular</string>
+    <string name="config_bodyFontFamilyMedium" translatable="false">nunito-semi-bold</string>
     <!-- Name of a font family to use for headlines. If empty, falls back to platform default -->
-    <string name="config_headlineFontFamily" translatable="false">nunito-bold</string>
+    <string name="config_headlineFontFamily" translatable="false">nunito-medium</string>
     <!-- Name of the font family used for system surfaces where the font should use medium weight -->
     <string name="config_headlineFontFamilyMedium" translatable="false">nunito-bold</string>
     <!-- Name of a font family to use as light font. For theming purpose. -->
-    <string name="config_lightFontFamily" translatable="false">nunito-regular</string>
+    <string name="config_lightFontFamily" translatable="false">nunito-light</string>
     <!-- Name of a font family to use as regular font. For theming purpose. -->
     <string name="config_regularFontFamily" translatable="false">nunito-regular</string>
-    <!-- Name of the font family to use in the default lockscreen clock -->
-    <string name="config_clockFontFamily" translatable="false">@string/config_bodyFontFamily</string>
 </resources>

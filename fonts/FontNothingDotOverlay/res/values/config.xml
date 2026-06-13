@@ -1,6 +1,6 @@
 <!--
 /**
- * Copyright (c) 2019-2020, crDroid Android Project
+ * Copyright (c) 2023 crDroid Android Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Name of a font family to use for body text. -->
+     <!-- Name of a font family to use for body text. -->
     <string name="config_bodyFontFamily" translatable="false">pixelwars</string>
     <!-- Name of a font family to use for medium body text. -->
     <string name="config_bodyFontFamilyMedium" translatable="false">nothingdot</string>
@@ -28,6 +28,4 @@
     <string name="config_lightFontFamily" translatable="false">pixelwars</string>
     <!-- Name of a font family to use as regular font. For theming purpose. -->
     <string name="config_regularFontFamily" translatable="false">pixelwars</string>
-    <!-- Name of the font family to use in the default lockscreen clock -->
-    <string name="config_clockFontFamily" translatable="false">@string/config_bodyFontFamily</string>
 </resources>

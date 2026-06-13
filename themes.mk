@@ -24,92 +24,63 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    HarmonyOS-Sans-Italic.ttf \
-    HarmonyOS-Sans.ttf \
-    Lexend-VF.ttf \
-    Manrope-VF.ttf \
-    RobotoFallback-VF.ttf
-
-# Font Overlays
-PRODUCT_PACKAGES += \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
-    FontArbutusSourceOverlay \
-    FontArvoLatoOverlay \
     FontBariolOverlay \
-    FontBeautyOverlay \
     FontCagliostroOverlay \
     FontCoconOverlay \
     FontComfortaaOverlay \
     FontComicSansOverlay \
+    FontCookieRunOverlay \
     FontCooljazzOverlay \
     FontCoolstoryOverlay \
-    FontEvolveSansOverlay \
     FontExotwoOverlay \
+    FontEvoSansOverlay \
+    FontEvolveSansOverlay \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
     FontFucekOverlay \
+    FontGrandHotelOverlay \
+    FontGeneralSansOverlay \
     FontGoogleSansOverlay \
     FontGoogleSansFlexOverlay \
-    FontGrandHotelOverlay \
-    FontGoogleSansMediumOverlay \
     FontHarmonySansOverlay \
-    FontInterSourceOverlay \
-    FontJTLeonorOverlay \
-    FontLGSmartGothicOverlay \
-    FontLemonMilkOverlay \
+    FontIBMPlexSansOverlay \
     FontLinotteOverlay \
     FontManropeOverlay \
     FontMiSansOverlay \
     FontNokiaPureOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
-    FontNotoSerifSource \
     FontNunitoOverlay \
-    FontOdudaOverlay \
-    FontOnePlusSansOverlay \
-    FontOnePlusSlateOverlay \
     FontOneUISansOverlay \
+    FontOneplusSansOverlay \
+    FontOneplusSlateOverlay \
     FontOppoSansOverlay \
+    FontPoppinsSourceOverlay \
     FontOswaldOverlay \
-    FontProductSansVHOverlay \
     FontPlayOverlay \
+    FontPunkMonoOverlay \
     FontQuandoOverlay \
     FontRecursiveCasualOverlay \
     FontRecursiveLinearOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
-    FontRobotoOverlay \
+    FontRookeryOverlay \
     FontRosemaryOverlay \
-    FontRubikRubikOverlay \
     FontSamsungOneOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
-    FontSimpleDaySourceOverlay \
+    FontSansSerifOverlay \
+    FontSansSerifProOverlay \
     FontSonySketchOverlay \
     FontSpaceGroteskOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontUbuntuOverlay \
-    FontVolteOverlay \
-    FontCircularStdOverlay \
-    FontBlazmaHyperwaveOverlay \
-    FontCardelinaOverlay \
-    FontCookieRunOverlay \
-    FontGemsbuckPunkMonoObliqueOverlay \
-    FontGiganticFSHezaedrusOverlay \
-    FontJicaletaOverlay \
-    FontJustSansOverlay \
-    FontPunkMonoOverlay \
-    FontVladivostokOverlay \
-    FontDotComOverlay \
-    FontAblaxOverlay \
-    FontFreshLemonsOverlay \
-    FontHumouresqueOverlay \
-    FontLoveOverlay \
-    FontParisOverlay \
-    FontPiqueOverlay
+    FontVolteOverlay
+
 
 # ClockFonts
 PRODUCT_PACKAGES += \
